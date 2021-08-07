@@ -13,7 +13,6 @@
 </template>
 
 <script>
-// import Header from './components/Header'
 import Main from './components/Main'
 import Shop from './components/Shop'
 export default {
