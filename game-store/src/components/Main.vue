@@ -3,7 +3,6 @@
 <section>
     <div id="head"> 
         <h1>Games</h1>
-        <!-- <input type="text" value=""> -->
         <select name="order" v-model="order">
             <option value="score">Mais populares</option>
             <option value="lesspop">Menos populares</option>

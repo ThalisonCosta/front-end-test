@@ -81,11 +81,6 @@ export default {
             return this.total.toFixed(2)
         }
     },
-    // computed: {
-    //     inCart() {
-    //         return this.$store.state.inCart
-    //     }
-    // }
 }
 </script>   
 
